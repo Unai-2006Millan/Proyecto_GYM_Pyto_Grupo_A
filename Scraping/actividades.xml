@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="actividades.xsl"?>
+
+<actividades>
+
+    <actividad>
+        <nombre_actividad>Yoga</nombre_actividad>
+        <nombre_entrenador>Marcos</nombre_entrenador>
+        <nombre_sala>Sala Cardio</nombre_sala>
+        <fecha_inicio>2025-04-21 09:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>Spinning</nombre_actividad>
+        <nombre_entrenador>unai</nombre_entrenador>
+        <nombre_sala>Sala Cardio</nombre_sala>
+        <fecha_inicio>2025-04-21 19:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>Yoga</nombre_actividad>
+        <nombre_entrenador>unai</nombre_entrenador>
+        <nombre_sala>Sala Yoga</nombre_sala>
+        <fecha_inicio>2026-01-01 10:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>Spinning</nombre_actividad>
+        <nombre_entrenador>Marcos</nombre_entrenador>
+        <nombre_sala>Sala Yoga</nombre_sala>
+        <fecha_inicio>2026-05-06 12:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>BodyPump</nombre_actividad>
+        <nombre_entrenador>Marcos</nombre_entrenador>
+        <nombre_sala>Sala Fuerza</nombre_sala>
+        <fecha_inicio>2026-06-04 18:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>BodyPump</nombre_actividad>
+        <nombre_entrenador>unai</nombre_entrenador>
+        <nombre_sala>Sala Yoga</nombre_sala>
+        <fecha_inicio>2026-06-10 09:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>Actividad prueba</nombre_actividad>
+        <nombre_entrenador>unai</nombre_entrenador>
+        <nombre_sala>Sala Yoga</nombre_sala>
+        <fecha_inicio>2026-06-10 09:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>Cardio</nombre_actividad>
+        <nombre_entrenador>unai</nombre_entrenador>
+        <nombre_sala>Sala Yoga</nombre_sala>
+        <fecha_inicio>2026-06-10 09:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>Cardio</nombre_actividad>
+        <nombre_entrenador>unai</nombre_entrenador>
+        <nombre_sala>Sala Yoga</nombre_sala>
+        <fecha_inicio>2026-06-10 09:00:00</fecha_inicio>
+    </actividad>
+
+    <actividad>
+        <nombre_actividad>Actividad prueba</nombre_actividad>
+        <nombre_entrenador>marcos</nombre_entrenador>
+        <nombre_sala>Sala Yoga</nombre_sala>
+        <fecha_inicio>2026-06-10 09:00:00</fecha_inicio>
+    </actividad>
+
+</actividades>
