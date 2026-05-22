@@ -1,0 +1,62 @@
+[
+  {
+    "nombre_actividad": "Yoga",
+    "nombre_entrenador": "Marcos",
+    "nombre_sala": "Sala Cardio",
+    "fecha_inicio": "2025-04-21 09:00:00"
+  },
+  {
+    "nombre_actividad": "Spinning",
+    "nombre_entrenador": "unai",
+    "nombre_sala": "Sala Cardio",
+    "fecha_inicio": "2025-04-21 19:00:00"
+  },
+  {
+    "nombre_actividad": "Yoga",
+    "nombre_entrenador": "unai",
+    "nombre_sala": "Sala Yoga",
+    "fecha_inicio": "2026-01-01 10:00:00"
+  },
+  {
+    "nombre_actividad": "Spinning",
+    "nombre_entrenador": "Marcos",
+    "nombre_sala": "Sala Yoga",
+    "fecha_inicio": "2026-05-06 12:00:00"
+  },
+  {
+    "nombre_actividad": "BodyPump",
+    "nombre_entrenador": "Marcos",
+    "nombre_sala": "Sala Fuerza",
+    "fecha_inicio": "2026-06-04 18:00:00"
+  },
+  {
+    "nombre_actividad": "BodyPump",
+    "nombre_entrenador": "unai",
+    "nombre_sala": "Sala Yoga",
+    "fecha_inicio": "2026-06-10 09:00:00"
+  },
+  {
+    "nombre_actividad": "Actividad prueba",
+    "nombre_entrenador": "unai",
+    "nombre_sala": "Sala Yoga",
+    "fecha_inicio": "2026-06-10 09:00:00"
+  },
+  {
+    "nombre_actividad": "Cardio",
+    "nombre_entrenador": "unai",
+    "nombre_sala": "Sala Yoga",
+    "fecha_inicio": "2026-06-10 09:00:00"
+  },
+  {
+    "nombre_actividad": "Cardio",
+    "nombre_entrenador": "unai",
+    "nombre_sala": "Sala Yoga",
+    "fecha_inicio": "2026-06-10 09:00:00"
+  },
+  {
+    "nombre_actividad": "Actividad prueba",
+    "nombre_entrenador": "marcos",
+    "nombre_sala": "Sala Yoga",
+    "fecha_inicio": "2026-06-10 09:00:00"
+  }
+]

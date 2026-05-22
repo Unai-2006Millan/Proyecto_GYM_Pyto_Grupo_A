@@ -1,0 +1,59 @@
+[
+  {
+    "nombre_actividad": "Yoga",
+    "hora": "09:00",
+    "fecha": "2025-04-21"
+  },
+  {
+    "nombre_actividad": "Spinning",
+    "hora": "19:00",
+    "fecha": "2025-04-21"
+  },
+  {
+    "nombre_actividad": "Yoga",
+    "hora": "10:00",
+    "fecha": "2026-01-01"
+  },
+  {
+    "nombre_actividad": "Spinning",
+    "hora": "12:00",
+    "fecha": "2026-05-06"
+  },
+  {
+    "nombre_actividad": "BodyPump",
+    "hora": "18:00",
+    "fecha": "2026-06-04"
+  },
+  {
+    "nombre_actividad": "Actividad prueba",
+    "hora": "09:00",
+    "fecha": "2026-06-10"
+  },
+  
+  { "nombre_actividad": "Cardio", "hora": "08:00", "fecha": "2026-05-18" },
+  { "nombre_actividad": "HIIT", "hora": "08:00", "fecha": "2026-05-19" },
+  { "nombre_actividad": "Cardio", "hora": "08:00", "fecha": "2026-05-20" },
+  { "nombre_actividad": "HIIT", "hora": "08:00", "fecha": "2026-05-21" },
+  { "nombre_actividad": "Cardio", "hora": "08:00", "fecha": "2026-05-22" },
+  { "nombre_actividad": "Pesas", "hora": "09:00", "fecha": "2026-05-18" },
+  { "nombre_actividad": "Espalda", "hora": "09:00", "fecha": "2026-05-19" },
+  { "nombre_actividad": "Pecho", "hora": "09:00", "fecha": "2026-05-20" },
+  { "nombre_actividad": "Pierna", "hora": "09:00", "fecha": "2026-05-21" },
+  { "nombre_actividad": "Full Body", "hora": "09:00", "fecha": "2026-05-22" },
+  { "nombre_actividad": "Yoga", "hora": "11:00", "fecha": "2026-05-18" },
+  { "nombre_actividad": "Pilates", "hora": "11:00", "fecha": "2026-05-19" },
+  { "nombre_actividad": "Yoga", "hora": "11:00", "fecha": "2026-05-20" },
+  { "nombre_actividad": "Pilates", "hora": "11:00", "fecha": "2026-05-21" },
+  { "nombre_actividad": "Stretching", "hora": "11:00", "fecha": "2026-05-22" },
+  { "nombre_actividad": "CrossFit", "hora": "18:00", "fecha": "2026-05-18" },
+  { "nombre_actividad": "Boxeo", "hora": "18:00", "fecha": "2026-05-19" },
+  { "nombre_actividad": "CrossFit", "hora": "18:00", "fecha": "2026-05-20" },
+  { "nombre_actividad": "Boxeo", "hora": "18:00", "fecha": "2026-05-21" },
+  { "nombre_actividad": "Funcional", "hora": "18:00", "fecha": "2026-05-22" },
+  { "nombre_actividad": "Pierna", "hora": "19:00", "fecha": "2026-05-18" },
+  { "nombre_actividad": "Pecho", "hora": "19:00", "fecha": "2026-05-19" },
+  { "nombre_actividad": "Espalda", "hora": "19:00", "fecha": "2026-05-20" },
+  { "nombre_actividad": "Hombro", "hora": "19:00", "fecha": "2026-05-21" },
+  { "nombre_actividad": "Core", "hora": "19:00", "fecha": "2026-05-22" }
+
+]

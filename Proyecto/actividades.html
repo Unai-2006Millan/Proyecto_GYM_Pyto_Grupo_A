@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Actividades - Fitness Gym</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<!-- NAV -->
+<nav class="barra-navegacion navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand text-white fw-bold" href="index.html">Fitness Gym</a>
+
+    <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="menu">
+      <ul class="navbar-nav ms-auto gap-3">
+        <li><a class="nav-link text-white" href="horario.html">Horario</a></li>
+        <li><a class="nav-link text-white" href="contacto.html">Contacto</a></li>
+        <li><a class="nav-link text-white" href="login.html">Inicio Sesion</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<header class="hero-gym">
+  <div class="overlay"></div>
+  <div class="contenido-header">
+    <h1>Actividades del Gimnasio</h1>
+    <p>Entrena • Reserva • Mejora tu rendimiento</p>
+  </div>
+</header>
+
+<!-- FILTROS (SOLO VISUAL) -->
+<div class="container my-4">
+  <div class="filtros-box">
+    <h4>Filtrar actividades</h4>
+
+    <div class="row g-3">
+      <div class="col-md-6">
+        <label>Sala</label>
+        <select class="form-control">
+          <option>Todos</option>
+          <option>Sala 1</option>
+          <option>Sala 2</option>
+          <option>Sala Funcional</option>
+          <option>Sala Boxeo</option>
+        </select>
+      </div>
+
+      <div class="col-md-6">
+        <label>Fecha</label>
+        <input type="date" class="form-control">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- TARJETAS -->
+
+<div class="container">
+  <div class="carousel-container my-4">
+    <button id="prev-btn" class="btn btn-outline-secondary carousel-btn carousel-prev" aria-label="Anterior" disabled>&larr;</button>
+
+    <div id="carousel-wrapper" class="overflow-hidden">
+      <div id="contenedor-actividades" class="row g-4"
+     data-cap-1="30" data-lib-1="14"
+     data-cap-2="30" data-lib-2="8"
+     data-cap-3="20" data-lib-3="5"
+     data-cap-4="20" data-lib-4="11"
+     data-cap-5="15" data-lib-5="2"
+     data-cap-6="20" data-lib-6="7"
+     data-cap-7="20" data-lib-7="14"
+     data-cap-8="30" data-lib-8="19"
+     data-cap-9="30" data-lib-9="12"
+     data-cap-10="20" data-lib-10="4">
+</div>
+    </div>
+    <br>
+    <button id="next-btn" class="btn btn-outline-secondary carousel-btn carousel-next" aria-label="Siguiente" disabled>&rarr;</button>
+  </div>
+  <br>
+  <div class="texto-extra mt-4">
+    <p>
+      En el caso que necesites reservar alguna actividad, necesitaras iniciar sesion, cuando lo hagas te saldra una opcion para instalarte la app. En caso contrario no podras acceder a la reserva de la actividad.
+    </p>
+  </div>
+</div>
+<br>
+<footer class="pt-4 pb-2">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-4">
+          <h5>Mi Gym</h5>
+          <p>Tu centro deportivo para mejorar salud y rendimiento.</p>
+        </div>
+
+        <div class="col-md-4 enlaces-footer">
+          <h5>Enlaces</h5>
+          <a href="horario.html">Horario</a>
+          <a href="index.html">Inicio</a>
+          <a href="contacto.html">Contacto</a>
+        </div>
+
+        <div class="col-md-4">
+          <h5>Contacto</h5>
+          <p>Email: info@fitnessgym.com</p>
+          <p>Tel: 623 426 779</p>
+          <p>Dirección: Avenida Calaceite nº23</p>
+        </div>
+
+      </div>
+
+      <hr style="border-color:#555;">
+
+      <div class="text-center">
+        <p>© 2026 Fitness Gym | Aviso legal | Política de privacidad</p>
+      </div>
+    </div>
+  </footer>
+<!-- JS Bootstrap -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="JavaScript/actividades.js"></script>
+<script src="JavaScript/actividades-carousel.js"></script>
+</body>
+</html>
